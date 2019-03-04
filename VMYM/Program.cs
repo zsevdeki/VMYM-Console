@@ -206,7 +206,7 @@ namespace varmısınyokmusun
                     break;
                 }
                 else if (vy =="-1")
-                {
+                { 
                     Console.WriteLine("Yokum diyor!!! Yarşmaya devam ediyor.");
                 }
                 Console.ReadLine();
